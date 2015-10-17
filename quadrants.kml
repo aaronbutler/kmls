@@ -6,6 +6,11 @@
 <open>0</open>
 <Placemark>
 <Style>
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+</Icon>
+</IconStyle>
 <LineStyle>
 <color>FFFFFFFF</color>
 <width>1</width>
